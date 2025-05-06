@@ -60,7 +60,9 @@ This is a **React-based** frontend for a **Movie Management System** that integr
   - Edit Category 
 
 
-  <img src="webDoc/adminOptions.png" alt="alt text" width="400" height="300"/>
+ <p align="center">
+  <img src="webDoc/adminOptions.png" width="600">
+ </p>
 
 ### 7. Search Page
 - Allows users to **search movies dynamically**.
