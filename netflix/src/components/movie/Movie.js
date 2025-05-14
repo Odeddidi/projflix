@@ -42,7 +42,7 @@ const Movie = ({ movie }) => {
     }
     // setPopupPosition
     setPopupPosition({
-      top: rect.top + 150 + window.scrollY,
+      top: rect.top + 170 + window.scrollY,
       left: left
     });
     setIsHovered(true);
@@ -83,7 +83,7 @@ const Movie = ({ movie }) => {
             style={{
               top: `${popupPosition.top}px`,
               left: `${popupPosition.left}px`,
-              transform: "translate(-50%, -80%)",
+              transform: "translate(-50%, -60%)",
               zIndex: 9999,
             }}
           >

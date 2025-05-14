@@ -29,8 +29,8 @@ const SearchPage = () => {
     // group movies by five
   const groupMoviesByFive = (movies) => {
     const grouped = [];
-    for (let i = 0; i < movies.length; i += 5) {
-      grouped.push(movies.slice(i, i + 5));
+    for (let i = 0; i < movies.length; i += 7) {
+      grouped.push(movies.slice(i, i + 7));
     }
     return grouped;
   };

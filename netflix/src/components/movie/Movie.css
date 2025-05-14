@@ -1,14 +1,14 @@
 .movie-block {
     position: relative; 
-    width: 240px;
-    height: 120px;
+    width: 160px;
+    height: 240px;
     margin: 0px;
     border-radius: 8px;
     overflow: visible; 
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease; 
-    flex: 0 0 225px; 
+    flex: 0 0 160px; 
   }
   
   .movie-block:hover {
@@ -19,7 +19,7 @@
   .movie-image {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: fill;
     border-radius: 6px;
     transition: opacity 0.3s ease; 
   }
