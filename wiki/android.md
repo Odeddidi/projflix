@@ -45,33 +45,33 @@ This android app availble in two languges, English and Spanish, depends on your 
 - Displays **movies categorized by promoted categories**.
 - Each category appears as a list of **small-sized movie component** using recaycler view.
 
-  ![alt text](androidDoc/home_activity_user.jpg)
+  ![alt text](androidDoc/home_activity_user.png)
 
 
 ### 5. Search Activity
 - Allows users to **search movies dynamically**.
 
 
-![alt text](androidDoc/search_activity.jpg)
+![alt text](androidDoc/search_activity.png)
 
 - Allows users to watch movies by category
 
-![alt text](androidDoc/category_activity.jpg)
+![alt text](androidDoc/category_activity.png)
 
 
 - In light mode:
 
-![alt text](androidDoc/search_movie_light.jpg)
+![alt text](androidDoc/search_movie_light.png)
 
 ### 6. Profile activity
 - Displays user **profile details**.
 - Alows the user to sign out 
 
-![alt text](androidDoc/user_details.jpg)
+![alt text](androidDoc/user_details.png)
 
 - In light mode:
 
-![alt text](androidDoc/user_details_light.jpg)
+![alt text](androidDoc/user_details_light.png)
  
  ### 7. Movie Details Activity
 
@@ -79,16 +79,16 @@ This android app availble in two languges, English and Spanish, depends on your 
  - This activity displayes all the info about the movie (name,duration,director...) and a play button. 
  - Also displays similar movies using recaycler view and adapter.
 
-![alt text](androidDoc/movie_details_activity.jpg)
+![alt text](androidDoc/movie_details_activity.png)
 
 - In light mode:
 
-![alt text](androidDoc/movie_details_light.jpg)
+![alt text](androidDoc/movie_details_light.png)
 
 ### 8. Video player
 the page where you can watch the full movie
 
-![alt text](androidDoc/video_player_activity.jpg)
+![alt text](androidDoc/video_player_activity.png)
 
 ---
     
@@ -101,7 +101,7 @@ the page where you can watch the full movie
 
 - Same as the users Home Activity but with extra button for the admin area in the action bar. 
 
-![alt text](androidDoc/home_activity_admin.jpg)
+![alt text](androidDoc/home_activity_admin.png)
 
 
 ### Admin Category activity 
@@ -121,7 +121,7 @@ the page where you can watch the full movie
 ### Admin Movies Activity
 - The activity that alows the admin to manage all the movies 
 
-![alt text](androidDoc/movies_activity.jpg)
+![alt text](androidDoc/movies_activity.png)
 
 
 ### Add Movie Activity
