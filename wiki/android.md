@@ -23,12 +23,15 @@ This android app availble in two languges, English and Spanish, depends on your 
 
 - In light mode:
 
-![alt text](androidDoc/landing_page_light.jpg)
+<p align="center">
+  <img src="androidDoc/landing_page_light.jpg" alt="Landing page" width="340" height="250"/>
+</p>
 
-- In Spanish: 
+- In Spanish:
 
-![alt text](androidDoc/landing_page_spanish.jpg)
-
+ <p align="center">
+  <img src="androidDoc/landing_page_spanish.jpg" alt="Landing page" width="340" height="250"/>
+</p> 
 
 
 ### 2. SignUp Activity
