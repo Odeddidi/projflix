@@ -17,7 +17,10 @@ This android app availble in two languges, English and Spanish, depends on your 
 - The landing page of the application.
 - Displays a hero banner or introductory section.
 
-  ![alt text](androidDoc/landing_page.jpg)
+<div style="text-align: center;">
+  <img src="androidDoc/landing_page.jpg" alt="landing_page"
+       style="max-width: 300px; height: auto; border: 1px solid #ccc; padding: 10px; border-radius: 8px;" />
+</div>
 
 - In light mode:
 
