@@ -17,7 +17,7 @@ For detailed explanations on each feature, component and pages, as well as usage
 
 ## Repository Clone
   ```bash
-   https://github.com/omergal11/Netflix-part-4-Web-Android.git
+   https://github.com/Odeddidi/projflix.git
    ```
 
 ## Commands for Running the Project
